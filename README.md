@@ -20,5 +20,5 @@ Para utilizar faça:
 
 Obs: As condições necessárias para rodar sem erros: 
 1. Em .env o valor da variável precisa está sem quebra de linhas.
-2. Os comandos SQL está em maiúsculo, por exemplo `INSERT INTO` e `VALUES`. 
+2. Os comandos SQL precisam está em maiúsculo, por exemplo `INSERT INTO` e `VALUES`. 
  
